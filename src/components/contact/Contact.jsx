@@ -1,6 +1,5 @@
 import {React, useRef} from 'react'
 import {AiOutlineMail} from 'react-icons/ai'
-import {BsTwitter} from 'react-icons/bs'
 import emailjs from 'emailjs-com'
 import './contact.css'
 
