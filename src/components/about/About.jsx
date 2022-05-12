@@ -36,7 +36,7 @@ const About = () => {
             where I was a Service Account Manager at Optum, a Pharmacy Benefits 
             Manager. I have since graduated Turing's School of Software & Design 
             with a focus on backend engineering, providing me the pleasure of meeting
-            so many wondeful developers across the industry within the country. 
+            so many wonderful developers across the industry within the country. 
             With a background in Ruby on Rails, Python, PostgreSQL, and React, I'm
             so excited to see where my journey takes me. I hope that involves you!
           </p>
