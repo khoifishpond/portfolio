@@ -1,13 +1,14 @@
 footer {
-  background: var(--color-bg);
+  background: #3c3c53;
   padding: 1rem 0;
   text-align: center;
   font-size: 0.9rem;
-  margin-top: 7rem;
+  margin-top: 10rem;
 }
 
 footer a {
   color: var(--color-light);
+  font-size: large;
 }
 
 .permalinks {

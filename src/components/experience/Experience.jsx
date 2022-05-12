@@ -1,5 +1,5 @@
 import React from 'react'
-import {DiHtml5, DiCss3, DiJavascript1, DiReact, DiRubyRough, DiPython, DiPostgresql} from 'react-icons/di'
+import {SiHtml5, SiCss3, SiJavascript, SiReact, SiRubyonrails, SiPython, SiDjango, SiPostgresql} from 'react-icons/si'
 import './experience.css'
 
 const Experience = () => {
@@ -13,19 +13,19 @@ const Experience = () => {
           <h3>Frontend Development</h3>
           <div className="experience__content">
             <article className='experience__details'>
-              <DiHtml5 className='experience__details-icon'/>
+              <SiHtml5 className='experience__details-icon'/>
               <h4>HTML</h4>
             </article>
             <article className='experience__details'>
-              <DiCss3 className='experience__details-icon'/>
+              <SiCss3 className='experience__details-icon'/>
               <h4>CSS</h4>
             </article>
             <article className='experience__details'>
-              <DiJavascript1 className='experience__details-icon'/>
+              <SiJavascript className='experience__details-icon'/>
               <h4>JavaScript</h4>
             </article>
             <article className='experience__details'>
-              <DiReact className='experience__details-icon'/>
+              <SiReact className='experience__details-icon'/>
               <h4>React</h4>
             </article>
           </div>
@@ -34,15 +34,19 @@ const Experience = () => {
           <h3>Backend Development</h3>
           <div className="experience__content">
             <article className='experience__details'>
-              <DiRubyRough className='experience__details-icon'/>
-              <h4>Ruby</h4>
+              <SiRubyonrails className='experience__details-icon'/>
+              <h4>Ruby on Rails</h4>
             </article>
             <article className='experience__details'>
-              <DiPython className='experience__details-icon'/>
+              <SiPython className='experience__details-icon'/>
               <h4>Python</h4>
             </article>
             <article className='experience__details'>
-              <DiPostgresql className='experience__details-icon'/>
+              <SiDjango className='experience__details-icon'/>
+              <h4>Django</h4>
+            </article>
+            <article className='experience__details'>
+              <SiPostgresql className='experience__details-icon'/>
               <h4>PostgreSQL</h4>
             </article>
           </div>
