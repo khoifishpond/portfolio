@@ -46,6 +46,7 @@ form {
 }
 
 input, textarea {
+  font-family: 'Poppins', sans-serif;
   width: 100%;
   padding: 1.5rem;
   border-radius: 0.5rem;
@@ -53,6 +54,10 @@ input, textarea {
   border: 2px solid var(--color-primary-variant);
   resize: none;
   color: var(--color-white);
+}
+
+button {
+  font-family: 'Poppins', sans-serif;
 }
 
 /* ====== MEDIUM DEVICES ====== */
