@@ -1,6 +1,6 @@
 header {
   height: 100vh;
-  padding-top: 7rem;
+  padding-top: 10rem;
   overflow: hidden;
 }
 
@@ -8,6 +8,21 @@ header {
   text-align: center;
   height: 100%;
   position: relative;
+}
+
+.header__container > h5 {
+  padding-top: 1rem;
+}
+
+.me > img {
+  margin: auto;
+  display: block;
+  width: 200px;
+  height: 200px;
+}
+
+img {
+  border-radius: 50%;
 }
 
 /* ====== CTA ====== */
